@@ -1,0 +1,234 @@
+body {
+    background-color: #D8D8D8;
+    font-family: 'Open Sans', sans-serif;
+}
+.wrapper {
+    margin-top: 10em;
+    margin-left: 30em;
+}
+
+.headbtn {
+    background-color: black;
+    color: white;
+    padding: 1em 5em;
+    border-radius: 2em;
+    text-decoration: none;
+    letter-spacing: 1em;    
+}
+
+.img1 {
+    position: relative;
+    z-index: -1;
+    margin-left: auto;
+    margin-right: auto;
+    width: 120%;
+    margin-top: -25em; 
+    margin-left: -20em;
+}
+
+.sideimg {
+    width: 30%;
+    margin-left: -25em;
+    margin-top: -30em;
+}
+
+.slogan1 {
+    position: absolute;
+    color:#C64B34;
+    margin-top: -1em;
+    font-size: 3em;
+    margin-left: 19em;
+    font-weight: 500;
+
+}
+
+.slogan2 {
+    color: white;
+    font-size: 8em;
+    margin-top: -3em;
+    margin-left: 7em;
+}
+
+.logoimg {
+    margin-bottom: -65em;
+    margin-left: 40em;
+}
+
+.text1 {
+    float: right;
+    margin-right: 30em;
+    margin-top: -18em;
+    font-weight: 500;
+    line-height: 2em;
+}
+
+.lukeimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: -1;
+    
+}
+
+.vidimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: -20em;
+    width: 75%;
+}
+
+.trailer {
+    color: white;
+    font-size: 6em;
+    font-weight: 700;
+    text-align: center;
+    margin-top: -5em;
+    word-spacing: 3em;
+}
+
+.vidarrow {
+    width: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -16em;
+}
+
+.lukeslogan {
+    color: white;
+    font-size: 5em;
+    margin-top: 5em;
+    text-align: center;
+}
+
+.lukename {
+    padding-bottom: 3em;
+}
+
+.name {
+    color: white;
+    font-size: 1em;
+    text-align: center;
+    margin-left: -45em;
+    margin-top: 6em;
+}
+
+.nameline {
+    width: 1%;
+    margin-left: 60em;
+    margin-top: -7em;
+}
+
+.tie {
+    width: 30%; 
+    margin-top: -5em;
+    transform: rotate(10deg);
+}   
+
+.characters {
+ background-image: url(https://wallpapercave.com/wp/wp4148056.jpg);
+ background-repeat: no-repeat;
+ background-position: center;
+ background-size: cover;
+ height: 100%;
+}
+
+.kyloren {
+    width: 40%;
+    margin-top: -70em;
+    margin-right: 5em;  
+    display: block;
+    margin-left: auto;  
+}   
+
+.kslogan1 {
+    color:#C64B34;
+    font-size: 4em;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: -4em;
+    margin-left: -3em;
+    letter-spacing: 1em;
+    font-weight: 700;
+
+}
+
+.kslogan2 {
+    color: white;
+    font-weight: 700;
+    font-size: 13em;
+    margin-left: 5em;
+    position: absolute;
+}
+
+.text2 {
+    color: white;
+    line-height: 2em;
+    font-weight: 600;
+    font-size: larger;
+    position: absolute;
+    margin-top: -25em;
+    padding-left: 2em;
+}
+
+.name2 {
+    color: white;
+    font-size: 2em;
+    font-weight: 600;
+    position: absolute;
+    margin-top: -20em;
+    padding-left: 1em;
+}
+
+.location {
+    background-image: url(https://www.mcgill.ca/oss/files/oss/styles/hd/public/crait.jpg?itok=3X5C-OWX&timestamp=1517851671);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.location1 {
+    color: #C64B34 ;
+    font-weight: 700;
+    letter-spacing: 1em;
+    font-size: 4em;
+    padding-top: 12em;
+    margin-bottom: -em;
+
+
+}
+
+.location2 {
+    color: white;
+    font-weight: 700;
+    font-size: 16em;
+    padding-bottom: 1em;
+}
+
+.craitimg1 {
+    width: 90%;
+    margin-top: -14em;
+}
+
+.Craittext {
+    color: white;
+    line-height: 2em;
+    font-weight: 600;
+    font-size: larger;
+    position: absolute;
+    float: right;
+    margin-top: -45em;
+    margin-left: 105em;
+
+}
+
+.Crait {
+    color: white;
+    font-size: 2em;
+    font-weight: 600;
+    position: absolute;
+    font-weight: 600;
+    margin-top: -32em;
+    margin-left: 63em;
+}
